@@ -1,0 +1,3 @@
+Is the earth round?;yes;no;maybe;what is earth;a
+Who is the creator of Python?;Bill Gates;Guido van Rossum;Elon Musk;Bob Sponge;b
+In which year Python was created?;1995;1985;1634;1991;d
